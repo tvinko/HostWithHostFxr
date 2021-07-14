@@ -3,3 +3,8 @@
 ################################################################################
 
 /HostWithHostFxr/bin/Debug
+/HostWithHostFxr/src/.vs/HostWithHostFxr
+/HostWithHostFxr/src/DotNetLib/obj
+/HostWithHostFxr/src/NativeHost/bin/Debug/net5.0
+/HostWithHostFxr/src/NativeHost/Debug
+/HostWithHostFxr/src/NativeHost/obj
